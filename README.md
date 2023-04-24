@@ -1,2 +1,3 @@
-# Ola mundo
- Primeiro repositorio de git e github
+# Olá, Mundo!
+ Primeiro repositorio, aprendend sobre git e github!
+ Espero que seja o primeiro de muitos!
